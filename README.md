@@ -5,7 +5,7 @@ A simple yet visually engaging ball bouncing animation built with HTML and CSS. 
 ## Preview📺
 ![Ball Bouncing Preview](https://github.com/aishi1528/ball-bouncing/blob/main/Ball%20bouncing.gif)
 
-###🌟 Live Demo
+### 🌟 Live Demo
 [Click to view the animation in action](https://aishi1528.github.io/ball-bouncing)
 
 
